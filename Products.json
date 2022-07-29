@@ -1,0 +1,27 @@
+[
+  {
+    "codeProduct": 20,
+    "nameProduct": "Окно",
+    "costProduct": 5000
+  },
+  {
+    "codeProduct": 21,
+    "nameProduct": "Дверь",
+    "costProduct": 4500
+  },
+  {
+    "codeProduct": 22,
+    "nameProduct": "Стеклопакет",
+    "costProduct": 3000
+  },
+  {
+    "codeProduct": 23,
+    "nameProduct": "Замок",
+    "costProduct": 350
+  },
+  {
+    "codeProduct": 24,
+    "nameProduct": "Петля",
+    "costProduct": 100
+  }
+]
