@@ -13,6 +13,7 @@ namespace Task_2
         static void Main(string[] args)
         {
             string jsonString = string.Empty;
+
             using (StreamReader sr = new StreamReader("../../../Products.json"))
             {
                 jsonString = sr.ReadToEnd();
